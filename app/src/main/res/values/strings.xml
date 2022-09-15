@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleUnitTests</string>
+    <string name="enter_name">Enter name</string>
+    <string name="unit_test_example">Unit Test Example</string>
+    <string name="save">Save</string>
+</resources>
